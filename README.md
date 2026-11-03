@@ -7,7 +7,7 @@
 ![No Backend](https://img.shields.io/badge/Architecture-100%25%20Client--Side-brightgreen.svg)
 
 ## 🌐 Live Demo
-Check out the live interactive tool: [https://iqbalmahmud.com](https://iqbalmahmud.com)
+Check out the live interactive tool: [https://iqbalmahmud.com/letterhead](https://iqbalmahmud.com/letterhead)
 
 ---
 
@@ -28,4 +28,4 @@ Check out the live interactive tool: [https://iqbalmahmud.com](https://iqbalmahm
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/letterhead-studio.git](https://github.com/your-username/letterhead-studio.git)
+   git clone [https://github.com/iqbalmbadhan/letterhead-studio.git](https://github.com/iqbalmbadhan/letterhead-studio.git)

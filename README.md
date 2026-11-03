@@ -28,4 +28,4 @@ Check out the live interactive tool: [https://iqbalmahmud.com/letterhead](https:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/iqbalmbadhan/letterhead-studio.git](https://github.com/iqbalmbadhan/letterhead-studio.git)
+   gh repo clone iqbalmbadhan/letterhead-studio
